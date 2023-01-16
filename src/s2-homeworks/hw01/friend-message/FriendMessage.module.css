@@ -1,11 +1,10 @@
 .friendMessage {
-/*display: flex;
-    justify-content: flex-end;*/
+
 }
 
 .friendImageAndText {
     display: flex;
-    justify-content: flex-end;
+
 
 }
 
@@ -15,12 +14,13 @@
 }
 
 .friendText {
-   width: 527px;
-    height: 60px;
-    left: 635px;
-    top: 192px;
 
-    background: #0066CC;
+    width: 500px;
+    height: 60px;
+    left: 118px;
+    top: 299px;
+
+    background-color: #F5F7FB;
     box-shadow: 0px 5px 20px rgba(29, 33, 38, 0.03), 0px 1px 2px rgba(29, 33, 38, 0.1);
 }
 
